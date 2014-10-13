@@ -1,0 +1,19 @@
+architecture: 
+	basics of what an app needs to be in the Application Store
+game:
+persistent data
+	current game score
+	previous game scores
+	round #
+	target (pseudorandom)
+	slider location
+	strings for instructions
+	alerts for: score for current round, start-over
+Active
+button on screen labeled Hit Me
+	pressing it activates the alert and sets current round score
+start over button which resets the score and round count
+pseudorandom generator for the target score each round
+slider with a moveable point
+comparison of slider location vs current round target
+landscape orientation
