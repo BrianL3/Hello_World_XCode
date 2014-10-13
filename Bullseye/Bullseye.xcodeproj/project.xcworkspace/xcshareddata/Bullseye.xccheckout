@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7ED3B792-A809-4E0D-AB0C-EE37D85A105A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bullseye</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4162AD484D538A5CAC76972C91C07CE9DDED0FC</key>
+		<string>https://github.com/BrianL3/Hello_World_XCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bullseye/Bullseye.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4162AD484D538A5CAC76972C91C07CE9DDED0FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BrianL3/Hello_World_XCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4162AD484D538A5CAC76972C91C07CE9DDED0FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4162AD484D538A5CAC76972C91C07CE9DDED0FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bullseye</string>
+		</dict>
+	</array>
+</dict>
+</plist>
