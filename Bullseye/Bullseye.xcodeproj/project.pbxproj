@@ -405,6 +405,7 @@
 				FADBCC7A19EC51C400FD0158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FADBCC7B19EC51C400FD0158 /* Build configuration list for PBXNativeTarget "BullseyeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				FADBCC7D19EC51C400FD0158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

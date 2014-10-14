@@ -10,8 +10,10 @@ persistent data
 	strings for instructions
 	alerts for: score for current round, start-over
 Active
-button on screen labeled Hit Me
-	pressing it activates the alert and sets current round score
+DONE button on screen labeled
+	DONE: pressing it activates the alert
+	and sets current round score
+	labeled Hit Me
 start over button which resets the score and round count
 pseudorandom generator for the target score each round
 slider with a moveable point
